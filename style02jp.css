@@ -1,9 +1,17 @@
+.principal{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 20px
+}
 
 .h1_1{
     color: #3498db;
 }
 .h1_two{
     color: red
+}
+.h1_3{
+    color: red;
 }
 
 .red-h2{
@@ -21,6 +29,19 @@
 .p_2{
     color: black;
 }
-.p_3{
-    color: black;
+.p_3img{
+    display: block;
+    margin: 0 auto; 
+    max-width: 100%;
 }
+.p_5img{
+    width: 300px;
+}
+.p_6{
+    color: black;
+
+}
+.p_7{
+    color: darkcyan;
+}
+
